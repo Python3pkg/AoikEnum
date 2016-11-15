@@ -4,8 +4,8 @@ Package.
 """
 from __future__ import absolute_import
 
-# Internal imports
-import aoikenum.aoikenum as _aoikenum
+# Local imports
+from . import aoikenum as _aoikenum
 
 
 # Support usage like:
