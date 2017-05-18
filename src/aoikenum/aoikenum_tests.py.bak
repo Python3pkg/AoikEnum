@@ -2,7 +2,7 @@
 """
 This module contains tests.
 """
-
+from __future__ import absolute_import
 
 # External imports
 import pytest
